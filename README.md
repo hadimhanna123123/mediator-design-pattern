@@ -14,7 +14,7 @@ The user is then required to single click (or double click) on the map to indica
 
 To run the program:
 
-1) download the linked file and the jar files
+1)Download the linked file and the jar files
 
 2)Open the project in eclipse
 
