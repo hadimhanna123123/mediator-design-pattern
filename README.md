@@ -24,6 +24,6 @@ To run the program:
 
 5) Upon pressing the run button follow the instructions mentioned in the Brief Description section
 
-##Notes
+#Notes
 
 If for some reason, the libraries could not be found, Find attached in the folder the libraries required.
